@@ -1,0 +1,527 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wikitip\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-01 00:46+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richard Vencu <richard.vencu@richardconsulting.ro>\n"
+"Language-Team: Richard Vencu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+
+#: wikitip.php:305
+#@ wikitip
+msgid "Loading"
+msgstr "Așteptați, se încarcă"
+
+#: wikitip.php:306
+#@ wikitip
+msgid "A WikiTip Cluster"
+msgstr "Un dicționar WikiTip"
+
+#: wikitip.php:324
+#@ wikitip
+msgid "Corrupted response format. Contact the webmaster."
+msgstr "Răspunsul de la server este corupt. Contactați administratorul sitului web."
+
+#: wikitip.php:325
+#@ wikitip
+msgid "Filed in"
+msgstr "Înregistrat în"
+
+#: wikitip.php:326
+#@ wikitip
+msgid "under"
+msgstr "sub"
+
+#: wikitip.php:327
+#@ wikitip
+msgid "No comments yet"
+msgstr "Nu sunt comentarii"
+
+#: wikitip.php:328
+#@ wikitip
+msgid "Add comment"
+msgstr "Adăugați un comentariu"
+
+#: wikitip.php:329
+#@ wikitip
+msgid "comment"
+msgstr "comentariu"
+
+#: wikitip.php:330
+#@ wikitip
+msgid "comments"
+msgstr "comentarii"
+
+#: wikitip.php:331
+#@ wikitip
+msgid "Error"
+msgstr "Eroare"
+
+#: wikitip.php:332
+#@ wikitip
+msgid "There is no definition for this term. Please contact the website admin."
+msgstr "Nu există definiții pentru acest termen. Contactați administratorul sitului web."
+
+#: wikitip.php:333
+#@ wikitip
+msgid "wikis found"
+msgstr "definiții găsite"
+
+#: wikitip.php:334
+#@ wikitip
+msgid "A WikiTip Thesaurus"
+msgstr "Un dicționar WikiTip"
+
+#: wikitip.php:496
+#@ wikitip
+msgid "WikiTip Settings Page"
+msgstr "Pagină setări WikiTip"
+
+#: wikitip.php:498
+#@ wikitip
+msgid "WikiTip"
+msgstr "WikiTip"
+
+#: wikitip.php:517
+#@ wikitip
+msgid "WikiTip Knowledge Cluster Tooltip for WordPress"
+msgstr "WikiTip Knowledge Cluster Tooltip pentru WordPress"
+
+#: wikitip.php:525
+#@ wikitip
+msgid "Save Changes"
+msgstr "Salvare modificări"
+
+#: wikitip.php:545
+#@ wikitip
+msgid "Account information"
+msgstr "Informații cont"
+
+#: wikitip.php:552
+#@ wikitip
+msgid "Username"
+msgstr "Nume utilizator"
+
+#: wikitip.php:560
+#@ wikitip
+msgid "Secret"
+msgstr "Secret"
+
+#: wikitip.php:568
+#@ wikitip
+msgid "Encryption SALT (Blowfish)"
+msgstr "SALT criptare (Blowfish)"
+
+#: wikitip.php:576
+#@ wikitip
+msgid "Your domain name. Be careful to include www if necessary."
+msgstr "Domeniul dumneavoastră. Fiți atenți să includeți www dacă este necesar."
+
+#: wikitip.php:639
+#@ wikitip
+msgid "Set tooltip usage options"
+msgstr "Setați opțiunile de utilizare pentru tooltip"
+
+#: wikitip.php:662
+#@ wikitip
+msgid "Tooltip destruction delay (miliseconds)"
+msgstr "Întârziere la distrugerea tooltip-ului (milisecunde)"
+
+#: wikitip.php:740
+#@ wikitip
+msgid "Display on frontpage"
+msgstr "Afișare în pagina principală"
+
+#: wikitip.php:748
+#@ wikitip
+msgid "Display on search page"
+msgstr "Afișare în pagina de căutare"
+
+#: wikitip.php:756
+#@ wikitip
+msgid "Display on archive pages"
+msgstr "Afișare în pagina arhivelor"
+
+#: wikitip.php:764
+#@ wikitip
+msgid "Display on category pages"
+msgstr "Afișare în pagină de categorie"
+
+#: wikitip.php:772
+#@ wikitip
+msgid "Display on author pages"
+msgstr "Afișare în pagină de autor"
+
+#: wikitip.php:780
+#@ wikitip
+msgid "Display on tag pages"
+msgstr "Afișare în pagină de etichetă"
+
+#: wikitip.php:788
+#@ wikitip
+msgid "Display only if users are logged in?"
+msgstr "Afișați numai pentru utilizatorii autentificați?"
+
+#: wikitip.php:798
+#@ wikitip
+msgid "Enter your settings below."
+msgstr "Introduceți setările dumneavoastră mai jos."
+
+#: wikitip.php:1379
+#@ wikitip
+msgid "Incorrect value entered for delay number!"
+msgstr "Valoare incorectă introdusă pentru întârziere!"
+
+#: wikitip.php:1392
+#@ wikitip
+msgid "Incorrect value entered for minimum size number!"
+msgstr "Valoare incorectă introdusă pentru lungimea minimă a termenilor!"
+
+#: wikitip.php:1551
+#@ wikitip
+msgid "Incorrect effect name, can be only null, fade or slide!"
+msgstr "Nume incorect introdus pentru efect. Poate fi null, fade sau slide!"
+
+#: wikitip_post_metabox.php:53
+#@ wikitip
+msgid "Do not use WikiTip tooltips on this page:"
+msgstr "Nu utiliza WikiTip în această pagină:"
+
+#: wikitip.php:670
+#@ wikitip
+msgid "Tooltip z-index value"
+msgstr "Valoarea z-index pentru tooltip"
+
+#: wikitip.php:678
+#@ wikitip
+msgid "Tooltip construction effect"
+msgstr "Efect la construirea tooltip-ului."
+
+#: wikitip.php:816
+#@ wikitip
+msgid "Please enter your username from wikitip.info"
+msgstr "Vă rugăm introduceți numele de utilizator de la wikitip.info"
+
+#: wikitip.php:833
+#@ wikitip
+msgid "Please copy your secret word from <a href='http://wikitip.info/my-subscription/'>My Subscription</a>"
+msgstr "Vă rugăm copiați cuvântul secret de la <a href='http://wikitip.info/my-subscription/'>My Subscription</a>"
+
+#: wikitip.php:850
+#@ wikitip
+msgid "Please copy your encryption SALT from <a href='http://wikitip.info/my-subscription/'>My Subscription</a>"
+msgstr "Vă rugăm copiați cheia de criptare SALT de la <a href='http://wikitip.info/my-subscription/'>My Subscription</a>"
+
+#: wikitip.php:867
+#@ wikitip
+msgid "Please insert your domain and make sure it is corectly registered at <a href='http://wikitip.info/my-subscription/'>My Subscription</a>"
+msgstr "Vă rugăm introduceți domeniul dumneavoastră și verificați dacă acesta este înregistrat corect la <a href='http://wikitip.info/my-subscription/'>My Subscription</a>"
+
+#: wikitip.php:883
+#@ wikitip
+msgid "Please insert the knowledge cluster you want to use, such as `mycluster` where the cluster address would be `mycluster.wikitip.info`."
+msgstr "Vă rugăm introduceți numele grupului de cunoștințe pe care doriți să îl folosiți, cum ar fi „grupulmeu” unde adresa acestuia este „grupulmeu.wikitip.info”."
+
+#: wikitip.php:900
+#@ wikitip
+msgid "Please insert the content containers to match the text for. It can be any HTML element such as `div.entry-content` or `strong` or `em`."
+msgstr "Vă rugăm introduceți containerul pentru conținutul pe care doriți să îl marcați. Poate fi orice element HTML din pagina dumneavoastră precum „div.entry-content” sau „strong” sau „em”"
+
+#: wikitip.php:917
+#@ wikitip
+msgid "Please insert a tooltip destruction delay in miliseconds. It may be useful for accidental mouse moves outside the tooltip area."
+msgstr "Vă rugăm introduceți o întârziere la distrugerea tooltip-ului, exprimată în milisecunde. Poate fi utilă în cazul mișcărilor accidentale ale mausului în afara ariei tooltip-ului."
+
+#: wikitip.php:934
+#@ wikitip
+msgid "Please insert the desired effect for tooltip display. Can be empty or `null`, `slide` and `fade`."
+msgstr "Vă rugăm introduceți efectul dorit pentru afișarea tooltip-ului. Poate fi gol sau „null”, „slide” și „fade”."
+
+#: wikitip.php:951
+#@ wikitip
+msgid "Please insert the minimum length of terms to be matched. Useful if you want to avoid matching short terms against a broad dictionary."
+msgstr "Vă rugăm introduceți lungimea minimă a termenilor de căutat. Poate fi utilă atunci când folosiți un dicționar amplu și nu doriți să explicați termenii scurți."
+
+#: wikitip.php:968
+#@ wikitip
+msgid "Please insert a tooltip z-index value. It can help in the case the tooltip is not shown with default values in your theme."
+msgstr "Vă rugăm introduceți o valoare z-index pentru tooltip. Poate fi utilă în cazul în care tooltip-ul nu este afișat cu valoarea implicită în tema dumneavoastră."
+
+#: wikitip.php:1074
+#@ wikitip
+msgid "Please check if you want terms matching to be case sensitive."
+msgstr "Vă rugăm bifați dacă doriți ca marcarea termenilor să fie sensibilă la majuscule."
+
+#: wikitip.php:1095
+#@ wikitip
+msgid "Please check if you want the matching to happen in the frontpage."
+msgstr "Vă rugăm bifați dacă doriți ca marcarea termenilor să aibă loc în pagina principală."
+
+#: wikitip.php:1116
+#@ wikitip
+msgid "Please check if you want the matching to happen in the search results page."
+msgstr "Vă rugăm bifați dacă doriți ca marcarea termenilor să aibă loc în pagina rezultatelor de căutare."
+
+#: wikitip.php:1137
+#@ wikitip
+msgid "Please check if you want the matching to happen in the archive pages."
+msgstr "Vă rugăm bifați dacă doriți ca marcarea termenilor să aibă loc în paginile cu arhive."
+
+#: wikitip.php:1158
+#@ wikitip
+msgid "Please check if you want the matching to happen in the category pages."
+msgstr "Vă rugăm bifați dacă doriți ca marcarea termenilor să aibă loc în paginile categoriilor."
+
+#: wikitip.php:1179
+#@ wikitip
+msgid "Please check if you want the matching to happen in the author pages."
+msgstr "Vă rugăm bifați dacă doriți ca marcarea termenilor să aibă loc în paginile autorilor."
+
+#: wikitip.php:1200
+#@ wikitip
+msgid "Please check if you want the matching to happen in the tag pages."
+msgstr "Vă rugăm bifați dacă doriți ca marcarea termenilor să aibă loc în paginile etichetelor."
+
+#: wikitip.php:1221
+#@ wikitip
+msgid "Please check if you want the matching to happen in the selected pages only for logged in users."
+msgstr "Vă rugăm bifați dacă doriți ca marcarea termenilor să aibă loc în paginile selectate dar numai pentru utilizatorii autentificați."
+
+#: wikitip.php:1471
+#@ wikitip
+msgid "Incorrect value entered for z-index: it can be a number or `auto` or `inherit` only!"
+msgstr "Valoare incorectă introdusă pentru z-index: poate fi un număr sau „auto” sau „inherit”!"
+
+#: wikitip.php:408
+#@ wikitip
+msgid "WikiTip Configuration Panel"
+msgstr "Panou configurare WikiTip"
+
+#: wikitip.php:409
+#@ wikitip
+msgid "Here you can control the behavior of WikiTip tooltips."
+msgstr "Aici puteți controla comportamentul tooltip-urilor."
+
+#: wikitip.php:410
+#@ wikitip
+msgid "Enable tooltips"
+msgstr "Activare tooltip-uri"
+
+#: wikitip.php:420
+#@ wikitip
+msgid "Filter by dictionaries"
+msgstr "Filtrare după dicționare"
+
+#: wikitip.php:732
+#@ wikitip
+msgid "Display user control panel"
+msgstr "Afișare panou de control pentru utilizatori"
+
+#: wikitip.php:1244
+#@ wikitip
+msgid "Please check if you want to display an user control panel for the tooltips.<br />Note: when you uncheck this setting, tooltips will be enforced to all users regardless of their previous setting!"
+msgstr "Bifați dacă doriți afișarea unui panou de control pentru tooltip-uri.<br />Notă: atunci când debifați această setare, tooltip-urile vor fi afișate tuturor utilizatorilor indiferent de setarea lor anterioară."
+
+#: wikitip.php:1266
+#@ wikitip
+msgid "Please check if you want to match terms inflexions."
+msgstr "Vă rugăm bifați dacă doriți și marcarea formelor de inflexiune a termenilor"
+
+#: wikitip.php:332
+#@ wikitip
+msgid "There is no definition for this term in the selected glossaries. Please try different selection"
+msgstr "Nu există definiții ale acestui termen în glosarele specificate. Vă rugăm să încercați o altă selecție"
+
+#: wikitip.php:335
+#@ wikitip
+msgid "Showing definitions"
+msgstr "Definiții afișate"
+
+#: wikitip.php:439
+#@ wikitip
+msgid "Definitions count"
+msgstr "Definiții găsite"
+
+#: wikitip.php:985
+#@ wikitip
+msgid "Please insert the maximum number of definitions to show in the tooltip at a time. Use -1 for unlimited."
+msgstr "Vă rugăm inserați numărul maxim de definiții de afișat într-o singură pagină de tooltip. Folosiți -1 pentru număr nelimitat."
+
+#: wikitip.php:1459
+#@ wikitip
+msgid "Incorrect value entered for maximum definitions number!"
+msgstr "Ați introdus o valoare incorectă pentru numărul maxim de definiții!"
+
+#: wikitip.php:421
+#@ wikitip
+msgid "Your selection will be saved using cookies."
+msgstr "Selecția va fi salvată prin cookies."
+
+#: wikitip.php:686
+#@ wikitip
+msgid "Sorting options"
+msgstr "Opțiuni sortare definiții"
+
+#: wikitip.php:693
+#@ wikitip
+msgid "Exact term in title weight"
+msgstr "Greutatea termenului exact în titlu"
+
+#: wikitip.php:701
+#@ wikitip
+msgid "Exact term in content weight"
+msgstr "Greutatea termenului exact în conținut"
+
+#: wikitip.php:709
+#@ wikitip
+msgid "Inflected term in title weight"
+msgstr "Greutatea unei inflexiuni a termenului în titlu"
+
+#: wikitip.php:717
+#@ wikitip
+msgid "Inflected term in content weight"
+msgstr "Greutatea unei inflexiuni a termenului în conținut"
+
+#: wikitip.php:1002
+#@ wikitip
+msgid "Please insert the score calculation weight for matching the exact term in the definition title. Use 0 to ignore."
+msgstr "Vă rugăm să introduceți greutatea termenului exact dacă acesta apare în titlul definiției. Utilizați 0 pentru a ignora această opțiune în scor."
+
+#: wikitip.php:1019
+#@ wikitip
+msgid "Please insert the score calculation weight for matching the exact term in the definition content. Use 0 to ignore."
+msgstr "Vă rugăm să introduceți greutatea termenului exact dacă acesta apare în conținutul definiției. Utilizați 0 pentru a ignora această opțiune în scor."
+
+#: wikitip.php:1036
+#@ wikitip
+msgid "Please insert the score calculation weight for matching any of the term inflexions in the definition title. Use 0 to ignore."
+msgstr "Vă rugăm să introduceți greutatea unei inflexiuni a termenului dacă aceasta apare în titlul definiției. Utilizați 0 pentru a ignora această opțiune în scor."
+
+#: wikitip.php:1053
+#@ wikitip
+msgid "Please insert the score calculation weight for matching any of the term inflexions in the definition content. Use 0 to ignore."
+msgstr "Vă rugăm să introduceți greutatea unei inflexiuni a termenului dacă aceasta apare în conținutul definiției. Utilizați 0 pentru a ignora această opțiune în scor."
+
+#: wikitip.php:1405
+#@ wikitip
+msgid "Incorrect value entered for weighting the exact term in titles!"
+msgstr "Valoare incorectă introdusă pentru greutatea termenului exact aflat în titlul definiției!"
+
+#: wikitip.php:1418
+#@ wikitip
+msgid "Incorrect value entered for weighting the exact term in content!"
+msgstr "Valoare incorectă introdusă pentru greutatea termenului exact aflat în conținutul definiției!"
+
+#: wikitip.php:1431
+#@ wikitip
+msgid "Incorrect value entered for weighting inflections of term in titles!"
+msgstr "Valoare incorectă introdusă pentru greutatea unei inflexiuni a termenului aflată în titlul definiției!"
+
+#: wikitip.php:1444
+#@ wikitip
+msgid "Incorrect value entered for weighting inflextions of term in content!"
+msgstr "Valoare incorectă introdusă pentru greutatea unei inflexiuni a termenului aflată în conținutul definiției!"
+
+#: wikitip.php:584
+#@ wikitip
+msgid "Set cluster usage options"
+msgstr "Setați opțiunile de utilizare a clusterului"
+
+#: wikitip.php:591
+#@ wikitip
+msgid "Knowledge Cluster to use"
+msgstr "Clusterul care va fi utilizat"
+
+#: wikitip.php:599
+#@ wikitip
+msgid "The minimum size of terms"
+msgstr "Numărul minim de caractere ale termenilor"
+
+#: wikitip.php:607
+#@ wikitip
+msgid "Terms inflexions"
+msgstr "Inflexiunile termenilor"
+
+#: wikitip.php:615
+#@ wikitip
+msgid "Case sensitivity"
+msgstr "Senzitivitate la majuscule"
+
+#: wikitip.php:623
+#@ wikitip
+msgid "Match cluster's language"
+msgstr "Potrivire limbă cluster"
+
+#: wikitip.php:631
+#@ wikitip
+msgid "Trie objects"
+msgstr "Obiectele Trie"
+
+#: wikitip.php:646
+#@ wikitip
+msgid "Maximum number of definitions display"
+msgstr "Număr maxim de definiții afișate"
+
+#: wikitip.php:654
+#@ wikitip
+msgid "Selector for containers of target text"
+msgstr "Selector pentru containerele cu text"
+
+#: wikitip.php:725
+#@ wikitip
+msgid "Context for tooltips usage, besides singular pages"
+msgstr "Contextul utilizării tooltip-urilor, în afară de paginile singulare"
+
+#: wikitip.php:1287
+#@ wikitip
+msgid "Please check if you want to match current language with cluster's language."
+msgstr "Vă rugăm să bifați dacă doriți să potriviți limba clusterului cu limba curentă. Dacă limba curentă nu este definită în cluster nu vor fi identificați termeni."
+
+#: wikitip.php:1354
+#@ wikitip
+msgid "Your cluster has these trie objects in the following languages"
+msgstr "Clusterul dumneavoastră are obiecte trie în limbile următoare"
+
+#: wikitip.php:1356
+#@ wikitip
+msgid "Terms"
+msgstr "Termeni"
+
+#: wikitip.php:1356
+#@ wikitip
+msgid "Make or update trie for terms in "
+msgstr "Creați sau actualizați obiectul trie pentru termeni în limba"
+
+#: wikitip.php:1359
+#@ wikitip
+msgid "Inflexions"
+msgstr "Inflexiuni"
+
+#: wikitip.php:1359
+#@ wikitip
+msgid "Make or update trie for inflexions in "
+msgstr "Creați sau actualizați obiectul trie pentru inflexiuni în limba"
+
+#: wikitip.php:1363
+#@ wikitip
+msgid "Click 'Make trie' buttons to regenerate your cluster's trie objects."
+msgstr "Apăsați butoanele „Creare obiecte trie” pentru a regenera obiectele trie ale clusterului."
+
+#: wikitip.php:1356
+#: wikitip.php:1359
+#@ wikitip
+msgid "Last updated"
+msgstr "Ultima actualizare"
+
